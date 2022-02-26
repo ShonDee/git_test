@@ -1,0 +1,2 @@
+This is my opportunity to add text to this .txt file.
+Now I have changes that I can save, stage, and commit to Github
