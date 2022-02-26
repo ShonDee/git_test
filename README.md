@@ -1,3 +1,4 @@
-# git_test
-My first GitHun repo!
-Hello Odin!
+## git_test
+My first GitHub repo, hello Odin!
+
+I just realized that this is using **markdown** syntax.
